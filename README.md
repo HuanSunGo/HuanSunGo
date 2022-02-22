@@ -5,7 +5,7 @@
 - 🌱 I’m comfortable in Data Analysis in Python, SQL, Tableau, R, and am also actively learning Spark. 
 I'm more than excited about analyzing data and providing interoperation with distinct business sense!
 
-- 📫 I’m actively looking for the 2022 Summer Internship in BA/DA/DS，and welcome to reach out to me through email or LinkedIn: 
+- 📫 I’m actively looking for the 2022 Summer Internship in DA/DS，and welcome to reach out to me through email or LinkedIn: 
  <br> _Email:  hs3240@columbia.edu_
  <br> _LinkedIn:[ Huan (Hannah) Sun](linkedin.com/in/huan-sun-70898315a)_
 
