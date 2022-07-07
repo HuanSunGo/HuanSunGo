@@ -10,13 +10,13 @@
   - Data Structures(Python) and Exploratory Data Analysis(Python, R)
   - Data Visualization (R, Tableau)
   -  Database and Data Warehousing(SQL)
-  -  Machine Learning (Linear Regression, Logistic Regression, Support Vector Machine, kNN, Decision Tree, Ensembles, etc.)
+  -  Machine Learning (Linear Regression, Logistic Regression, Support Vector Machine, kNN, Decision Tree, Ensembles, RNN, CNN, etc.)
   -  Big Data (AWS, Spark)
 
 - 🌱 With a distinct business sense, I'm more than excited about analyzing and providing interoperation with data itself!
 
 ### Reach Out to Me 
-📫 I’m actively looking for the 2022 Summer Internship in DS/DA，and welcome to reach out to me through email or LinkedIn: 
+📫 I’m actively looking for the 2022 **Full Time** positions in DS/DA，and welcome to reach out to me through email or LinkedIn: 
  <br> _Email:  hs3240@columbia.edu_
  <br> _LinkedIn:[ Huan (Hannah) Sun](linkedin.com/in/huan-sun-70898315a)_
 
