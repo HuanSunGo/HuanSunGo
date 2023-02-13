@@ -7,12 +7,13 @@
 ### What Can I Offer
 - 💬 My coursework focuses on the following topics:
   - Probability and Statistics 
-  - Data Structures(Python) and Algorithm
   - Exploratory Data Analysis(Python, R)
   - Data Visualization (R, Tableau)
   - Database and Data Warehousing(SQL, NoSQL)
   - Machine Learning (Linear Regression, Logistic Regression, Support Vector Machine, kNN, Decision Tree, Ensembles, RNN, CNN, etc.)
   - Big Data (AWS, GCP, Spark, Airflow)
+  - Data Structures(Python) and Algorithm
+  - Database design and web application
 
 - 🌱 With a distinct business sense, I'm more than excited about analyzing and providing interoperation with data itself!
 
